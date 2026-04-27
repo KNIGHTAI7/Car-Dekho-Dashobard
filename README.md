@@ -1,10 +1,5 @@
 # 🚗 AutoIntelligence: Car Dekho Market Analytics Dashboard
 
-<img src="IMAGES/Main page.png" width="200">
-<img src="IMAGES/Map.png" width="200">
-<img src="IMAGES/Category wise pricing.png" width="200">
-<img src="IMAGES/Detail info page.png" width="200">
-
 
 ## 📊 Project Overview
 
@@ -140,8 +135,10 @@ Implement "Certified Premium" designation for first-owner vehicles to justify hi
 
 ## 📸 Dashboard Preview
 
-<!-- Add screenshot here -->
-![Dashboard Overview](images/dashboard_preview.png)
+<img src="IMAGES/Main page.png" width="500">
+<img src="IMAGES/Map.png" width="500">
+<img src="IMAGES/Category wise pricing.png" width="500">
+<img src="IMAGES/Detail info page.png" width="500">
 
 ---
 
