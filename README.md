@@ -1,6 +1,9 @@
 # 🚗 AutoIntelligence: Car Dekho Market Analytics Dashboard
 
-https://drive.google.com/file/d/13pyuARfUuIlY_kdr41ApvESHrfKPdCUd/view?usp=sharing
+IMAGES/Main page.png
+IMAGES/Map.png
+IMAGES/Category wise pricing.png
+IMAGES/Detail info page.png
 
 
 ## 📊 Project Overview
